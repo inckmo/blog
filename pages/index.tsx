@@ -7,8 +7,8 @@ interface IBlogsProps {
   blogsData: IBlogData[];
 }
 
-export const BLOG_INDEX_PAGE_TITLE = 'Sujames Blog';
-const BLOG_INDEX_PAGE_META = 'Sujames Blog that build from Next.js';
+export const BLOG_INDEX_PAGE_TITLE = 'SKYC Blog';
+const BLOG_INDEX_PAGE_META = 'Blog that build from Next.js';
 
 const Blogs = ({ blogsData }: IBlogsProps) => {
   return (
