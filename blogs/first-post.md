@@ -2,7 +2,7 @@
 title: 'My first blog!'
 category: 'About me'
 description: 'Welcome to my first blog which made with Next.js and Tailwind CSS'
-date: '2020-11-20'
+date: '2021-01-20'
 readingTime: 1
 ---
 
