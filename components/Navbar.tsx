@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-const LOGO_TEXT = 'SUJAMES';
+const LOGO_TEXT = 'SKYC';
 
 const Navbar = () => {
   return (
