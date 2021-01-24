@@ -32,7 +32,7 @@ const App = ({ Component, pageProps }: AppProps) => {
           href="/favicon-16x16.png"
         />
         <meta name="apple-mobile-web-app-title" content="Sujames Blog" />
-        <meta name="application-name" content="Sujames Blog" />
+        <meta name="application-name" content="SKYC Blog" />
         <meta name="msapplication-TileColor" content="#4B5563" />
         <meta name="theme-color" content="#4B5563" />
       </Head>
